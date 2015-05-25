@@ -47,13 +47,19 @@ a, #link:hover {
     #body {
         font-size: 14.5px;
         line-height: 21px;
-        padding: 55px;
+        padding: 50px;
     }
     #about, #elsewhere {
         font-size: 14.5px;
         line-height: 21px;
         max-width: 400px;
         padding-bottom: 40px;
+    }
+    #blurbtitle {
+        font-size: 13px;
+        line-height: 21px;
+        letter-spacing: 0.5px;
+        padding-bottom: 15px;
     }
 }
 
@@ -70,6 +76,12 @@ a, #link:hover {
         max-width: 450px;
         padding-bottom: 40px;
     }
+    #blurbtitle {
+        font-size: 13px;
+        line-height: 21px;
+        letter-spacing: 0.5px;
+        padding-bottom: 20px;
+    }
     
 }
 
@@ -85,8 +97,10 @@ a, #link:hover {
         max-width: 450px;
         padding-bottom: 40px;
     }
-}
-
-.hidden {
-    height: 0;
+     #blurbtitle {
+        font-size: 13px;
+        line-height: 21px;
+        letter-spacing: 0.5px;
+        padding-bottom: 20px;
+    }
 }

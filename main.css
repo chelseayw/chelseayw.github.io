@@ -50,6 +50,8 @@ a, #link:hover {
         padding: 55px;
     }
     #about, #elsewhere {
+        font-size: 14.5px;
+        line-height: 21px;
         max-width: 400px;
         padding-bottom: 40px;
     }
@@ -63,7 +65,9 @@ a, #link:hover {
         padding: 65px;
     }
     #about, #elsewhere {
-        max-width: 400px;
+        font-size: 14.5px;
+        line-height: 21px;
+        max-width: 450px;
         padding-bottom: 40px;
     }
     
@@ -76,6 +80,8 @@ a, #link:hover {
         padding: 65px;
     }
     #about, #elsewhere {
+        font-size: 14.5px;
+        line-height: 21px;
         max-width: 450px;
         padding-bottom: 40px;
     }
